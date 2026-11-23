@@ -1,0 +1,2 @@
+- set `TOKEN` env var to token
+- `python3 rpdoom.py [channel to run in]`
